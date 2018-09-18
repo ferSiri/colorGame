@@ -1,0 +1,64 @@
+.square{
+	width:30%;
+	height: 30%;
+	margin:1.5%;
+	background-color: red;
+	float:left;
+	border-radius: 10%;
+}
+.container-fluid{
+	max-width: 600px;
+	height: 100vh;
+}
+body{
+	background-color: #232323;
+}
+
+#titulo{
+	color:white;
+	text-align: center;
+}
+
+#colorDisplay{
+	font-size: 180%;
+}
+
+#message{
+	color: black;
+}
+#stripe{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+}
+.sel{
+	background-color: black;
+	color:white;
+}
+#reset{
+	position: relative;
+	left: -230px;
+	height: 100%;
+	background-color: white;
+	border: none;
+	font-size: 130%
+}
+#reset:hover{
+	background-color: black;
+	color:white;
+}
+
+.but{
+	margin-left: 10px;
+	position: relative;
+	left:220px;
+	height: 100%;
+	background-color: white;
+	border: none;
+	font-size: 130%
+}
+
+.but:hover{
+	background-color: black;
+	color:white;
+}
